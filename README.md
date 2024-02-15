@@ -19,14 +19,14 @@ The Arduino-based Walk Assist Device for the visually impaired and elderly indiv
 <br>
 
 ## Items Used:
-1.[Arduino UNO](https://store.arduino.cc/products/arduino-uno-rev3)
-2.[Arduino Nano](https://store.arduino.cc/products/arduino-nano)
-3.Ultrasonic sensors
-4.MPU6050 Sensor
-5.Vibrating Motors
-6.Buzzers
-7.Breadboard
-8.Jumper Wires
+1. [Arduino UNO](https://store.arduino.cc/products/arduino-uno-rev3)
+2. [Arduino Nano](https://store.arduino.cc/products/arduino-nano)
+3. Ultrasonic sensors
+4. MPU6050 Sensor
+5. Vibrating Motors
+6. Buzzers
+7. Breadboard
+8. Jumper Wires
 
 <br>
 
