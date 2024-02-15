@@ -1,4 +1,4 @@
-
+// Code for object detection in Arduino
 int trigPin = 3;
 int echoPin = 2;
 int ledPin=9;
@@ -27,7 +27,7 @@ void setup() {
   pinMode(ledPin3, OUTPUT);
   
  
-}
+} 
 
 void loop() {
   int duration, distance;
