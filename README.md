@@ -1,1 +1,3 @@
 <h1 align="center">SMART DEVICE FOR WALK ASSIST</h1>
+<h3 align="left">The Arduino-based Walk Assist Device for the visually impaired and elderly individuals is a device designed to enhance mobility and safety. This innovative device integrates object detection and fall detection mechanisms to provide comprehensive support for users navigating through their surroundings. </h3> 
+<h3 align="left" > Used Technologies</h3>
