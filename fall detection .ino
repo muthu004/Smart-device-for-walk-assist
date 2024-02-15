@@ -36,7 +36,8 @@ void setup(void) {
     break;
   case MPU6050_RANGE_16_G:
     Serial.println("+-16G");
-    break;
+    break; 
+    
   }
   mpu.setGyroRange(MPU6050_RANGE_500_DEG);
   Serial.print("Gyro range set to: ");
