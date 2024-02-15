@@ -1,4 +1,4 @@
-// Basic demo for accelerometer readings from Adafruit MPU6050
+// Basic demo for accelerometer readings from Adafruit MPU6050 
 
 #include <Adafruit_MPU6050.h>
 #include <Adafruit_Sensor.h>
