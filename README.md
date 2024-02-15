@@ -1,2 +1,1 @@
-# Smart device for walk assist
-# Device created to assist old aged and blind people in walking.
+<h1 align="center">SMART DEVICE FOR WALK ASSIST</h1>
