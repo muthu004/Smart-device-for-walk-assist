@@ -1,4 +1,4 @@
-// Code for object detection in Arduino
+// Code for object detection in Arduino IDE
 int trigPin = 3;
 int echoPin = 2;
 int ledPin=9;

@@ -9,7 +9,7 @@
 <br>
 
 ## Description
-The Arduino-based Walk Assist Device for the visually impaired and elderly individuals is a device designed to enhance mobility and safety. This innovative device integrates object detection and fall detection mechanisms to provide comprehensive support for users navigating through their surroundings.  
+The Arduino-based Walk Assist Device for the visually impaired and elderly individuals is a device designed to enhance mobility and safety. This innovative device integrates object detection and fall detection mechanisms to provide comprehensive support for users navigating through their surroundings.
 
 <br>
 
@@ -26,7 +26,7 @@ The Arduino-based Walk Assist Device for the visually impaired and elderly indiv
 5. Vibrating Motors
 6. Buzzers
 7. Breadboard
-8. Jumper Wires
+8. Jumper Wires.
 
 <br>
 
