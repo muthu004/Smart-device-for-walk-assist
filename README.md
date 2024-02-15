@@ -1,7 +1,7 @@
 
 <div align="center">
   <p>
-      <img width="20%" src="/arduino-icon.svg">
+      <img width="20%" src=https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg>
   </p>
   <h1 align="center">SMART DEVICE FOR WALK ASSIST USING  <a href="https://www.arduino.cc"> ARDUINO </a></h1>
 </div>
@@ -14,7 +14,7 @@ The Arduino-based Walk Assist Device for the visually impaired and elderly indiv
 <br>
 
 ## Software used
- <a href="https://www.arduino.cc/en/software"><img src="/arduino-ide-logo.svg" width="40"></a>
+ <a href="https://www.arduino.cc/en/software"><img src=https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg width="40"></a>
 
 <br>
 
