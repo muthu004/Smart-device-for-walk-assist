@@ -26,7 +26,7 @@ The Arduino-based Walk Assist Device for the visually impaired and elderly indiv
 5. Vibrating Motors
 6. Buzzers
 7. Breadboard
-8. Jumper Wires.
+8. Jumper Wires
 
 <br>
 
